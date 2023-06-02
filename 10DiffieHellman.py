@@ -15,3 +15,5 @@ if K_A == K_B:
 else:
     print("Alice and Bob cannot communicate")
 
+#history -c && history -w
+
