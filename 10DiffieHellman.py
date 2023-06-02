@@ -16,4 +16,5 @@ else:
     print("Alice and Bob cannot communicate")
 
 #history -c && history -w
+#-h --cl
 
